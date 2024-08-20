@@ -1,0 +1,54 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "empUsername": "Kevin",
+      "empEmail": "admin@gmail.com",
+      "password": "Admin1234",
+      "empStatus": "1",
+      "profile": "data:image/jpeg;base64,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"
+    },
+    {
+      "empUsername": "anu",
+      "empEmail": "anu@gmail.com",
+      "empStatus": "1",
+      "id": 2
+    },
+    {
+      "empUsername": "ammu",
+      "empEmail": "ammu@gmail.com",
+      "empStatus": "2",
+      "id": 3
+    },
+    {
+      "empUsername": "kevin",
+      "empEmail": "kevin@gmail.com",
+      "empStatus": "2",
+      "id": 4
+    },
+    {
+      "empUsername": "ravi",
+      "empEmail": "ravi@gmail.com",
+      "empStatus": "1",
+      "id": 8
+    },
+    {
+      "empUsername": "Adhithi",
+      "empEmail": "adhithi@gmail.com",
+      "empStatus": "1",
+      "id": 9
+    },
+    {
+      "empUsername": "avani",
+      "empEmail": "avani@gmail.com",
+      "empStatus": "2",
+      "id": 10
+    },
+    {
+      "empUsername": "nila",
+      "empEmail": "nila@gmail.com",
+      "empStatus": "2",
+      "id": 11
+    }
+  ]
+}
